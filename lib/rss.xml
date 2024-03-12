@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Chemie.md]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Chemie.md</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 12 Mar 2024 20:03:17 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 12 Mar 2024 20:03:13 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Aktivierungsenergie]]></title><description><![CDATA[ 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Chemie.md]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Chemie.md</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 12 Mar 2024 20:06:16 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 12 Mar 2024 20:06:11 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Aktivierungsenergie]]></title><description><![CDATA[ 
  <br><br>Die Aktivierungsenergie ist die benötigte Energie um eine Reaktion ablaufen zu lassen.<br>
-Reaktionen mit einer niedrigeren Aktivierungsenergie laufen in der Regel schneller ab und können als <a data-tooltip-position="top" aria-label="Spontane Vorgänge" data-href="Spontane Vorgänge" href="\themen\metastabile-systeme\spontane-vorgänge.html" class="internal-link" target="_self" rel="noopener">spontaner</a> wahrgenommen werden.<br>
-Um die Aktivierungsenergie herabzusetzen kann man einen <a data-href="Katalysator" href="\themen\extra\katalysator.html" class="internal-link" target="_self" rel="noopener">Katalysator</a> verwenden.]]></description><link>themen\extra\aktivierungsenergie.html</link><guid isPermaLink="false">Themen/Extra/Aktivierungsenergie.md</guid><pubDate>Mon, 11 Mar 2024 19:18:37 GMT</pubDate></item><item><title><![CDATA[Bildung und Spaltung eines Esters]]></title><description><![CDATA[ 
- ]]></description><link>themen\extra\bildung-und-spaltung-eines-esters.html</link><guid isPermaLink="false">Themen/Extra/Bildung und Spaltung eines Esters.md</guid><pubDate>Mon, 11 Mar 2024 09:11:57 GMT</pubDate></item><item><title><![CDATA[Kalorimeter]]></title><description><![CDATA[ 
+Reaktionen mit einer niedrigeren Aktivierungsenergie laufen in der Regel schneller ab und können als <a data-tooltip-position="top" aria-label="Spontane Vorgänge" data-href="Spontane Vorgänge" href="\Themen\Metastabile Systeme\Spontane Vorgänge.html" class="internal-link" target="_self" rel="noopener">spontaner</a> wahrgenommen werden.<br>
+Um die Aktivierungsenergie herabzusetzen kann man einen <a data-href="Katalysator" href="\Themen\Extra\Katalysator.html" class="internal-link" target="_self" rel="noopener">Katalysator</a> verwenden.]]></description><link>Themen\Extra\Aktivierungsenergie.html</link><guid isPermaLink="false">Themen/Extra/Aktivierungsenergie.md</guid><pubDate>Mon, 11 Mar 2024 19:18:37 GMT</pubDate></item><item><title><![CDATA[Bildung und Spaltung eines Esters]]></title><description><![CDATA[ 
+ ]]></description><link>Themen\Extra\Bildung und Spaltung eines Esters.html</link><guid isPermaLink="false">Themen/Extra/Bildung und Spaltung eines Esters.md</guid><pubDate>Mon, 11 Mar 2024 09:11:57 GMT</pubDate></item><item><title><![CDATA[Kalorimeter]]></title><description><![CDATA[ 
  <br><br>Ein Kalorimeter ist ein Gerät um Temperaturänderungen eines Systems zu berechnen.<br>
 Aufbau:<br>
 <br>Geschlossener Behälter
@@ -18,12 +18,12 @@ Die Anfangstemperatur beträgt 25°C und nach der Reaktion 35°C.<br>
 Q = m  c  T <br>mges = mWasser + mNatriumhydroxid  = 52g + 2g = 52g<br>
 cges =   =  = 4.10  <br>somit:<br>
 Q = 52g  4.10  (35°C - 25°C)<br>
-Q = 2.132J]]></description><link>themen\extra\kalorimeter.html</link><guid isPermaLink="false">Themen/Extra/Kalorimeter.md</guid><pubDate>Mon, 11 Mar 2024 19:11:09 GMT</pubDate></item><item><title><![CDATA[Katalysator]]></title><description><![CDATA[ 
- <br><br>Ein Katalysator ist ein Stoff um die <a data-href="Aktivierungsenergie" href="\themen\extra\aktivierungsenergie.html" class="internal-link" target="_self" rel="noopener">Aktivierungsenergie</a> herabzusetzen. Der Katalysator geht unverändert aus der Reaktion heraus.<br>Er bietet der Reaktion eine andere Route wodurch es einfacher wird zu Reagieren.]]></description><link>themen\extra\katalysator.html</link><guid isPermaLink="false">Themen/Extra/Katalysator.md</guid><pubDate>Mon, 11 Mar 2024 19:19:53 GMT</pubDate></item><item><title><![CDATA[Massenwirkungsgesetz]]></title><description><![CDATA[ 
+Q = 2.132J]]></description><link>Themen\Extra\Kalorimeter.html</link><guid isPermaLink="false">Themen/Extra/Kalorimeter.md</guid><pubDate>Mon, 11 Mar 2024 19:11:09 GMT</pubDate></item><item><title><![CDATA[Katalysator]]></title><description><![CDATA[ 
+ <br><br>Ein Katalysator ist ein Stoff um die <a data-href="Aktivierungsenergie" href="\Themen\Extra\Aktivierungsenergie.html" class="internal-link" target="_self" rel="noopener">Aktivierungsenergie</a> herabzusetzen. Der Katalysator geht unverändert aus der Reaktion heraus.<br>Er bietet der Reaktion eine andere Route wodurch es einfacher wird zu Reagieren.]]></description><link>Themen\Extra\Katalysator.html</link><guid isPermaLink="false">Themen/Extra/Katalysator.md</guid><pubDate>Mon, 11 Mar 2024 19:19:53 GMT</pubDate></item><item><title><![CDATA[Massenwirkungsgesetz]]></title><description><![CDATA[ 
  <br><br>Kc ist abhängig von der Temperatur und unabhängig von den Konzentrationen der beteiligten Stoffe. Im chemischen GG ist bei konstanter Temp das Produkt aus den Konzentrationen der Teilchen rechts dividiert durch das Teilchen links konstant. Die Einheit der GG Konstanten ist abhängig von den Koeffizienten in der Reaktionsgleichung.<br>Kc = <br>
 Kc = Gleichgewichtskonstante<br>
-aA + bB ⇌ cC + dD<br>]]></description><link>themen\extra\massenwirkungsgesetz.html</link><guid isPermaLink="false">Themen/Extra/Massenwirkungsgesetz.md</guid><pubDate>Mon, 11 Mar 2024 19:27:32 GMT</pubDate></item><item><title><![CDATA[Reaktionsgeschwindigkeit]]></title><description><![CDATA[ 
- <br><br>Die Reaktionsgeschwindigkeit ist ein Maß dafür, wie viele Teilchen in einem betrachteten Volumen pro Zeit einer chemischen Reaktion umgesetzt werden. Die Reaktionsgeschwindigkeit gibt also die Konzentrationsänderung der reagierenden Ausgangsstoffe in einer bestimmen Zeit an.<br><br>]]></description><link>themen\extra\reaktionsgeschwindigkeit.html</link><guid isPermaLink="false">Themen/Extra/Reaktionsgeschwindigkeit.md</guid><pubDate>Mon, 11 Mar 2024 19:13:23 GMT</pubDate></item><item><title><![CDATA[Chemisches Gleichgewicht]]></title><description><![CDATA[ 
+aA + bB ⇌ cC + dD<br>]]></description><link>Themen\Extra\Massenwirkungsgesetz.html</link><guid isPermaLink="false">Themen/Extra/Massenwirkungsgesetz.md</guid><pubDate>Mon, 11 Mar 2024 19:27:32 GMT</pubDate></item><item><title><![CDATA[Reaktionsgeschwindigkeit]]></title><description><![CDATA[ 
+ <br><br>Die Reaktionsgeschwindigkeit ist ein Maß dafür, wie viele Teilchen in einem betrachteten Volumen pro Zeit einer chemischen Reaktion umgesetzt werden. Die Reaktionsgeschwindigkeit gibt also die Konzentrationsänderung der reagierenden Ausgangsstoffe in einer bestimmen Zeit an.<br><br>]]></description><link>Themen\Extra\Reaktionsgeschwindigkeit.html</link><guid isPermaLink="false">Themen/Extra/Reaktionsgeschwindigkeit.md</guid><pubDate>Mon, 11 Mar 2024 19:13:23 GMT</pubDate></item><item><title><![CDATA[Chemisches Gleichgewicht]]></title><description><![CDATA[ 
  <br><br>Chemisches Gleichgewicht ist ein Zustand, wenn die Geschwindigkeit der Hin- und Rückreaktion gleich sind und die Konzentration der beteiligten Stoffe konstant bleiben.<br><br>Kc = <br>
 Kc = Gleichgewichtskonstante<br><br>H2O(l) ⇌ H+(aq) + OH+(aq) <br>
 <br>H2O kann vernachlässigt werden da der unterschied minimal ist
@@ -33,15 +33,15 @@ Kw = x  x = x²<br>
 x² = 1.0  10-14<br>
 x = 1.0  10-7<br>
 Also beträgt die Gleichgewichtskonzentration von H+ und OH- jeweils 1.0 * 10-7. 
-]]></description><link>themen\metastabile-systeme\chemisches-gleichgewicht.html</link><guid isPermaLink="false">Themen/Metastabile Systeme/Chemisches Gleichgewicht.md</guid><pubDate>Mon, 11 Mar 2024 19:49:13 GMT</pubDate></item><item><title><![CDATA[Methastabile Systeme]]></title><description><![CDATA[ 
+]]></description><link>Themen\Metastabile Systeme\Chemisches Gleichgewicht.html</link><guid isPermaLink="false">Themen/Metastabile Systeme/Chemisches Gleichgewicht.md</guid><pubDate>Mon, 11 Mar 2024 19:49:13 GMT</pubDate></item><item><title><![CDATA[Methastabile Systeme]]></title><description><![CDATA[ 
  <br><br>Metastabilität ist eine schwache Form der Stabilität. Ein metastabiler Zustand ist stabil gegen kleine Änderung, aber instabil gegenüber größeren Änderungen.<br>Ein metastabiles System: Zustand 1 ist gegenüber kleinen Störungen stabil und geht bei großen Störungen in Zustand 3 über. Zustand 2 ist labil.<br>
 Erst ein Zündfunke oder ein Katalysator lässt eine Reaktion bei metastabilen Systemen ablaufen.<br>
-Man benötigt Aktivierungsenergie.]]></description><link>themen\metastabile-systeme\methastabile-systeme.html</link><guid isPermaLink="false">Themen/Metastabile Systeme/Methastabile Systeme.md</guid><pubDate>Mon, 11 Mar 2024 18:51:49 GMT</pubDate></item><item><title><![CDATA[Spontane Vorgänge]]></title><description><![CDATA[ 
+Man benötigt Aktivierungsenergie.]]></description><link>Themen\Metastabile Systeme\Methastabile Systeme.html</link><guid isPermaLink="false">Themen/Metastabile Systeme/Methastabile Systeme.md</guid><pubDate>Mon, 11 Mar 2024 18:51:49 GMT</pubDate></item><item><title><![CDATA[Spontane Vorgänge]]></title><description><![CDATA[ 
  <br><br>Vorgänge die keine physischen oder chemischen Außeneinwirkungen benötigen um abzulaufen.<br>
-Diese Vorgänge werden durch den Begriff der freien Energie beschrieben, der aus der thermodynamischen Betrachtung stammt.]]></description><link>themen\metastabile-systeme\spontane-vorgänge.html</link><guid isPermaLink="false">Themen/Metastabile Systeme/Spontane Vorgänge.md</guid><pubDate>Tue, 12 Mar 2024 12:46:03 GMT</pubDate></item><item><title><![CDATA[pH Wert]]></title><description><![CDATA[ 
+Diese Vorgänge werden durch den Begriff der freien Energie beschrieben, der aus der thermodynamischen Betrachtung stammt.]]></description><link>Themen\Metastabile Systeme\Spontane Vorgänge.html</link><guid isPermaLink="false">Themen/Metastabile Systeme/Spontane Vorgänge.md</guid><pubDate>Tue, 12 Mar 2024 12:46:03 GMT</pubDate></item><item><title><![CDATA[pH Wert]]></title><description><![CDATA[ 
  <br><br>Ist ein Maß für den sauren oder basischen Charakter einer wässrigen Lösung.<br>
 Er ist die Gegenzahl zum Logarithmus der Ammonium-Ionen (H3O+) des Stoffes.<br>
-Um die stärke der jeweiligen Säure/Base zu bestimmen gibt es den <a data-tooltip-position="top" aria-label="pKs und pKb" data-href="pKs und pKb" href="\themen\säure-base-reaktionen\pks-und-pkb.html" class="internal-link" target="_self" rel="noopener">pKs oder pKb</a> Wert.<br>
+Um die stärke der jeweiligen Säure/Base zu bestimmen gibt es den <a data-tooltip-position="top" aria-label="pKs und pKb" data-href="pKs und pKb" href="\Themen\Säure-Base Reaktionen\pKs und pKb.html" class="internal-link" target="_self" rel="noopener">pKs oder pKb</a> Wert.<br>
 0: Stark Sauer<br>
 4: Leicht Sauer<br>
 7: Neutral<br>
@@ -52,14 +52,14 @@ Um die stärke der jeweiligen Säure/Base zu bestimmen gibt es den <a data-toolt
 <br>HA = Säure []
 <br>Ks =   | nach H3O+  auflösen<br>
 H3O+ =  | -lg<br>weil:<br>
-<br>-lg(Ks) = <a data-tooltip-position="top" aria-label="pKs und pKb" data-href="pKs und pKb" href="\themen\säure-base-reaktionen\pks-und-pkb.html" class="internal-link" target="_self" rel="noopener">pKs</a>
+<br>-lg(Ks) = <a data-tooltip-position="top" aria-label="pKs und pKb" data-href="pKs und pKb" href="\Themen\Säure-Base Reaktionen\pKs und pKb.html" class="internal-link" target="_self" rel="noopener">pKs</a>
 <br>-lg(H3O+) = pH
 <br>-lg() = lg()<br>
-=&gt; pH = <a data-tooltip-position="top" aria-label="pKs und pKb" data-href="pKs und pKb" href="\themen\säure-base-reaktionen\pks-und-pkb.html" class="internal-link" target="_self" rel="noopener">pKs</a> + lg()
-<br>]]></description><link>themen\säure-base-reaktionen\ph-wert.html</link><guid isPermaLink="false">Themen/Säure-Base Reaktionen/pH Wert.md</guid><pubDate>Mon, 11 Mar 2024 20:06:15 GMT</pubDate></item><item><title><![CDATA[pKs und pKb]]></title><description><![CDATA[ 
+=&gt; pH = <a data-tooltip-position="top" aria-label="pKs und pKb" data-href="pKs und pKb" href="\Themen\Säure-Base Reaktionen\pKs und pKb.html" class="internal-link" target="_self" rel="noopener">pKs</a> + lg()
+<br>]]></description><link>Themen\Säure-Base Reaktionen\pH Wert.html</link><guid isPermaLink="false">Themen/Säure-Base Reaktionen/pH Wert.md</guid><pubDate>Mon, 11 Mar 2024 20:06:15 GMT</pubDate></item><item><title><![CDATA[pKs und pKb]]></title><description><![CDATA[ 
  <br><br>Je niedriger der pKs-Wert desto stärker die Säure.<br>
 Je niedriger der pKb-Wert desto stärker die Base.<br>
-Der <a data-href="pH Wert" href="\themen\säure-base-reaktionen\ph-wert.html" class="internal-link" target="_self" rel="noopener">pH Wert</a> wird mithilfe des pKs-pKb-Wert berechnet.<br>pKs + pKb = 14<br><br>Nach dem <a data-href="Massenwirkungsgesetz" href="\themen\extra\massenwirkungsgesetz.html" class="internal-link" target="_self" rel="noopener">Massenwirkungsgesetz</a>:<br>
+Der <a data-href="pH Wert" href="\Themen\Säure-Base Reaktionen\pH Wert.html" class="internal-link" target="_self" rel="noopener">pH Wert</a> wird mithilfe des pKs-pKb-Wert berechnet.<br>pKs + pKb = 14<br><br>Nach dem <a data-href="Massenwirkungsgesetz" href="\Themen\Extra\Massenwirkungsgesetz.html" class="internal-link" target="_self" rel="noopener">Massenwirkungsgesetz</a>:<br>
 KS = <br>
 KB = <br>
 dafür gilt:<br>
@@ -68,18 +68,18 @@ dafür gilt:<br>
 <br>A- = konjugierte Base
 <br>HA = schwache Säure
 <br>pKs = -lg(KS)<br>
-pKb = -lg(KB) <br>]]></description><link>themen\säure-base-reaktionen\pks-und-pkb.html</link><guid isPermaLink="false">Themen/Säure-Base Reaktionen/pKs und pKb.md</guid><pubDate>Mon, 11 Mar 2024 19:55:25 GMT</pubDate></item><item><title><![CDATA[Puffer]]></title><description><![CDATA[ 
- <br><br>Puffersysteme werden benutzt um den <a data-href="pH Wert" href="\themen\säure-base-reaktionen\ph-wert.html" class="internal-link" target="_self" rel="noopener">pH Wert</a> auf einem konstanten Wert zu halten.<br>
-Dabei gibt man eine schwache Säure und ihre konjugierte Base in ein Verhältnis von 1:1.<br>Um den <a data-href="pH Wert" href="\themen\säure-base-reaktionen\ph-wert.html" class="internal-link" target="_self" rel="noopener">pH Wert</a> eines Puffers zu bestimmen rechnet man:<br>
-<a data-tooltip-position="top" aria-label="pH Wert" data-href="pH Wert" href="\themen\säure-base-reaktionen\ph-wert.html" class="internal-link" target="_self" rel="noopener">pH</a> = <a data-tooltip-position="top" aria-label="pKs und pKb" data-href="pKs und pKb" href="\themen\säure-base-reaktionen\pks-und-pkb.html" class="internal-link" target="_self" rel="noopener">pKs</a> + lg() <br><br><br>gegeben:<br>
+pKb = -lg(KB) <br>]]></description><link>Themen\Säure-Base Reaktionen\pKs und pKb.html</link><guid isPermaLink="false">Themen/Säure-Base Reaktionen/pKs und pKb.md</guid><pubDate>Mon, 11 Mar 2024 19:55:25 GMT</pubDate></item><item><title><![CDATA[Puffer]]></title><description><![CDATA[ 
+ <br><br>Puffersysteme werden benutzt um den <a data-href="pH Wert" href="\Themen\Säure-Base Reaktionen\pH Wert.html" class="internal-link" target="_self" rel="noopener">pH Wert</a> auf einem konstanten Wert zu halten.<br>
+Dabei gibt man eine schwache Säure und ihre konjugierte Base in ein Verhältnis von 1:1.<br>Um den <a data-href="pH Wert" href="\Themen\Säure-Base Reaktionen\pH Wert.html" class="internal-link" target="_self" rel="noopener">pH Wert</a> eines Puffers zu bestimmen rechnet man:<br>
+<a data-tooltip-position="top" aria-label="pH Wert" data-href="pH Wert" href="\Themen\Säure-Base Reaktionen\pH Wert.html" class="internal-link" target="_self" rel="noopener">pH</a> = <a data-tooltip-position="top" aria-label="pKs und pKb" data-href="pKs und pKb" href="\Themen\Säure-Base Reaktionen\pKs und pKb.html" class="internal-link" target="_self" rel="noopener">pKs</a> + lg() <br><br><br>gegeben:<br>
 <br>Puffer: 1mol Essigsäure mit 1mol Natriumacetat 1 L
-<br><a data-tooltip-position="top" aria-label="pKs und pKb" data-href="pKs und pKb" href="\themen\säure-base-reaktionen\pks-und-pkb.html" class="internal-link" target="_self" rel="noopener">pKs</a>-Wert der Essigsäure = 4.76
+<br><a data-tooltip-position="top" aria-label="pKs und pKb" data-href="pKs und pKb" href="\Themen\Säure-Base Reaktionen\pKs und pKb.html" class="internal-link" target="_self" rel="noopener">pKs</a>-Wert der Essigsäure = 4.76
 <br>also:<br>
-<a data-tooltip-position="top" aria-label="pH Wert" data-href="pH Wert" href="\themen\säure-base-reaktionen\ph-wert.html" class="internal-link" target="_self" rel="noopener">pH</a> = 4.76 + lg() = = 4.76<br>bei Zugabe von HCl mit 0.1:<br>
+<a data-tooltip-position="top" aria-label="pH Wert" data-href="pH Wert" href="\Themen\Säure-Base Reaktionen\pH Wert.html" class="internal-link" target="_self" rel="noopener">pH</a> = 4.76 + lg() = = 4.76<br>bei Zugabe von HCl mit 0.1:<br>
 <br>Oxoniumionen = 1 + 0.1 = 1.1
 <br>Hydroxidion = 1 - 0.1 = 0.9
 <br>also:<br>
-<a data-tooltip-position="top" aria-label="pH Wert" data-href="pH Wert" href="\themen\säure-base-reaktionen\ph-wert.html" class="internal-link" target="_self" rel="noopener">pH</a> = 4.76 + lg() = 4.67]]></description><link>themen\säure-base-reaktionen\puffer.html</link><guid isPermaLink="false">Themen/Säure-Base Reaktionen/Puffer.md</guid><pubDate>Mon, 11 Mar 2024 20:06:15 GMT</pubDate></item><item><title><![CDATA[Säure-Base-Reaktion]]></title><description><![CDATA[ 
+<a data-tooltip-position="top" aria-label="pH Wert" data-href="pH Wert" href="\Themen\Säure-Base Reaktionen\pH Wert.html" class="internal-link" target="_self" rel="noopener">pH</a> = 4.76 + lg() = 4.67]]></description><link>Themen\Säure-Base Reaktionen\Puffer.html</link><guid isPermaLink="false">Themen/Säure-Base Reaktionen/Puffer.md</guid><pubDate>Mon, 11 Mar 2024 20:06:15 GMT</pubDate></item><item><title><![CDATA[Säure-Base-Reaktion]]></title><description><![CDATA[ 
  <br><br>Im Bronsted-Modell werden Säuren als Protonendonatoren und Basen als Protenenakzeptoren definiert.<br>
 Also:<br>
 <br>Säure gibt H+ ab
@@ -88,19 +88,19 @@ Also:<br>
 HCl + NaOH -&gt; H2O + NaCl<br>
 <br>Salzsäure gibt Proton ab und wird zu Chloridion (Cl-)
 <br>Natriumhydroxid nimmt Proton auf und wird zu Wasser
-]]></description><link>themen\säure-base-reaktionen\säure-base-reaktion.html</link><guid isPermaLink="false">Themen/Säure-Base Reaktionen/Säure-Base-Reaktion.md</guid><pubDate>Tue, 12 Mar 2024 11:06:08 GMT</pubDate></item><item><title><![CDATA[Bildungs- und Reaktionsenthalpie]]></title><description><![CDATA[ 
+]]></description><link>Themen\Säure-Base Reaktionen\Säure-Base-Reaktion.html</link><guid isPermaLink="false">Themen/Säure-Base Reaktionen/Säure-Base-Reaktion.md</guid><pubDate>Tue, 12 Mar 2024 11:06:08 GMT</pubDate></item><item><title><![CDATA[Bildungs- und Reaktionsenthalpie]]></title><description><![CDATA[ 
  <br><br>V(a) A + V(b) B → V(c)C + V(d) D            V(x) = stöchiometrischer Koeffizient<br>
 RH =  HProdukte -  HEdukte <br><br>Um Reaktionenthalpien besser vergleichen zu können hat man die molare Standardreaktionsenthalpie eingeführt: RH°<br>Standardbedingungen = 25°C bzw. 298K | 1013mBar<br>Es gibt verschiedene Standardenthalpien, besonders für Berechnungen geeignet sind: <br>
-<br><a data-tooltip-position="top" aria-label="Schmelz- und Verdampungsenthalpie" data-href="Schmelz- und Verdampungsenthalpie" href="\themen\thermodynamik\schmelz-und-verdampungsenthalpie.html" class="internal-link" target="_self" rel="noopener">molare Schmelz- und Verdampfungsenthalpie</a>
+<br><a data-tooltip-position="top" aria-label="Schmelz- und Verdampungsenthalpie" data-href="Schmelz- und Verdampungsenthalpie" href="\Themen\Thermodynamik\Schmelz- und Verdampungsenthalpie.html" class="internal-link" target="_self" rel="noopener">molare Schmelz- und Verdampfungsenthalpie</a>
 <br>molare Verbrennungsenthalpie
 <br>molare Bindungsenthalpie
 <br>molare Bildungsenthalpie<br>
 Bsp: H2(g) +  O(g) →  H2O         fH° = 285 
 <br>Für energetische Betrachtungen kann es geschickt sein die Reaktion in gedachte Teilschritte zu zerlegen.<br>
-Satz von Hess 1840: Gesetz der konstanten Wärmesummen: "Die Enthalpieänderung von zwei Zuständen ist unabhängig vom Reaktionsweg"]]></description><link>themen\thermodynamik\bildungs-und-reaktionsenthalpie.html</link><guid isPermaLink="false">Themen/Thermodynamik/Bildungs- und Reaktionsenthalpie.md</guid><pubDate>Mon, 11 Mar 2024 18:53:03 GMT</pubDate></item><item><title><![CDATA[Endotherm und Exotherm]]></title><description><![CDATA[ 
+Satz von Hess 1840: Gesetz der konstanten Wärmesummen: "Die Enthalpieänderung von zwei Zuständen ist unabhängig vom Reaktionsweg"]]></description><link>Themen\Thermodynamik\Bildungs- und Reaktionsenthalpie.html</link><guid isPermaLink="false">Themen/Thermodynamik/Bildungs- und Reaktionsenthalpie.md</guid><pubDate>Mon, 11 Mar 2024 18:53:03 GMT</pubDate></item><item><title><![CDATA[Endotherm und Exotherm]]></title><description><![CDATA[ 
  <br><br>Das System nimmt Energie aus der Umgebung auf. Während der Reaktion nimmt die Temperatur ab.<br>
 Ein Beispiel wäre das verdampfen von Wasser. <br><br>Das System gibt Energie an das System in Form von wärme ab.<br>
-Ein Beispiel wäre verbrennen von Holz.]]></description><link>themen\thermodynamik\endotherm-und-exotherm.html</link><guid isPermaLink="false">Themen/Thermodynamik/Endotherm und Exotherm.md</guid><pubDate>Mon, 11 Mar 2024 19:34:29 GMT</pubDate></item><item><title><![CDATA[Energetik]]></title><description><![CDATA[ 
+Ein Beispiel wäre verbrennen von Holz.]]></description><link>Themen\Thermodynamik\Endotherm und Exotherm.html</link><guid isPermaLink="false">Themen/Thermodynamik/Endotherm und Exotherm.md</guid><pubDate>Mon, 11 Mar 2024 19:34:29 GMT</pubDate></item><item><title><![CDATA[Energetik]]></title><description><![CDATA[ 
  <br><br>Alle Stoffe sind mit Energieumwandlungen gekoppelt. Chemische Energie kann umgewandelt werden in:<br>
 <br>thermische Energie
 <br>kinetische Energie (Mechanische Energie)
@@ -125,7 +125,7 @@ Endotherme Reaktion  Qr &gt; 0      + E<br>Je nach Reaktionstyp unterscheidet ma
 <br>Lösungswärme
 <br>Neutralisationswärme
 <br>Bildungswärme
-]]></description><link>themen\thermodynamik\energetik.html</link><guid isPermaLink="false">Themen/Thermodynamik/Energetik.md</guid><pubDate>Mon, 11 Mar 2024 18:40:07 GMT</pubDate></item><item><title><![CDATA[Entropie]]></title><description><![CDATA[ 
+]]></description><link>Themen\Thermodynamik\Energetik.html</link><guid isPermaLink="false">Themen/Thermodynamik/Energetik.md</guid><pubDate>Mon, 11 Mar 2024 18:40:07 GMT</pubDate></item><item><title><![CDATA[Entropie]]></title><description><![CDATA[ 
  <br><br>Entropie ist der 2. Hauptsatz der Thermodynamik:<br>
 Die Gesamtentropie eines Systems und seiner Umgebung kann nicht abnehmen. Sie bleibt entweder gleich (ideal reversibler Verlauf) oder nimmt zu (tatsächlicher Ablauf in Natur und Technik).<br>
 Die Entropie ist das Maß der Unordnung.<br>SGes = SSystem + SUmgebung<br>Änderung der Entropie durch Wärmezufuhr:<br>
@@ -137,16 +137,16 @@ SSystem = 2mol  S°m(70) - 2mol 131 + 205<br>
 = -327 kJ<br>
 <br>
 rH° = 2  -286 - (2 * 0) + 0<br>
-= -572 kJ<br>SUmgebung =  =  = 1.91 = 1919<br>SGesamt = -327  + 1919 = 1592]]></description><link>themen\thermodynamik\entropie.html</link><guid isPermaLink="false">Themen/Thermodynamik/Entropie.md</guid><pubDate>Tue, 12 Mar 2024 17:26:21 GMT</pubDate></item><item><title><![CDATA[Innere Energie]]></title><description><![CDATA[ 
+= -572 kJ<br>SUmgebung =  =  = 1.91 = 1919<br>SGesamt = -327  + 1919 = 1592]]></description><link>Themen\Thermodynamik\Entropie.html</link><guid isPermaLink="false">Themen/Thermodynamik/Entropie.md</guid><pubDate>Tue, 12 Mar 2024 17:26:21 GMT</pubDate></item><item><title><![CDATA[Innere Energie]]></title><description><![CDATA[ 
  <br><br>Nur die Änderung der inneren Energie kann bestimmt werden (u).<br>
 rU = U2 - U1 <br><br>Versuch: Reaktion von Zink mit Salzsäure<br>Zn(s) + 3HCl(aq)  →  H2(g) + ZnCls(aq)<br>a) Volumen konstant. Qr = -156.5KJ<br>
-b) Druck konstant. Qp = -154 KJ<br>rU = Qp + W]]></description><link>themen\thermodynamik\innere-energie.html</link><guid isPermaLink="false">Themen/Thermodynamik/Innere Energie.md</guid><pubDate>Mon, 11 Mar 2024 19:34:40 GMT</pubDate></item><item><title><![CDATA[Schmelz- und Verdampungsenthalpie]]></title><description><![CDATA[ 
+b) Druck konstant. Qp = -154 KJ<br>rU = Qp + W]]></description><link>Themen\Thermodynamik\Innere Energie.html</link><guid isPermaLink="false">Themen/Thermodynamik/Innere Energie.md</guid><pubDate>Mon, 11 Mar 2024 19:34:40 GMT</pubDate></item><item><title><![CDATA[Schmelz- und Verdampungsenthalpie]]></title><description><![CDATA[ 
  <br><br>wärme die bei konstantem Druck zum schmelzen nötig ist.<br>
 Der Betrag entspricht der Erstarrungsenthalpie.    sH<br><br>wärme die bei konstantem Druck zum verdampfen nötig ist.<br>
 Der Betrag entspricht der Kondensationsenthalpie. rH<br>Um die Enthalpien miteinander vergleichen zu können gibt man die molare Schmelz- und Verdampfungsenthalpie an:<br>
 <br>sHn =   [] 
 <br>rHn =  [] 
-]]></description><link>themen\thermodynamik\schmelz-und-verdampungsenthalpie.html</link><guid isPermaLink="false">Themen/Thermodynamik/Schmelz- und Verdampungsenthalpie.md</guid><pubDate>Mon, 11 Mar 2024 18:40:21 GMT</pubDate></item><item><title><![CDATA[formeln]]></title><description><![CDATA[ 
+]]></description><link>Themen\Thermodynamik\Schmelz- und Verdampungsenthalpie.html</link><guid isPermaLink="false">Themen/Thermodynamik/Schmelz- und Verdampungsenthalpie.md</guid><pubDate>Mon, 11 Mar 2024 18:40:21 GMT</pubDate></item><item><title><![CDATA[formeln]]></title><description><![CDATA[ 
  <br><br>
 <br>RH =  (HProdukte)  -  (HEdukte) 
 <br><br>
@@ -155,43 +155,43 @@ Der Betrag entspricht der Kondensationsenthalpie. rH<br>Um die Enthalpien mitein
 ## [[Säure-Base-Reaktion|Säure-Basen]]:
 allgemein:
 - [[pH Wert|pH]] = -lg(H3O+) <br>für starke Säuren/Basen:<br>
-<br><a data-tooltip-position="top" aria-label="pH Wert" data-href="pH Wert" href="\themen\säure-base-reaktionen\ph-wert.html" class="internal-link" target="_self" rel="noopener">pH</a> = <a data-tooltip-position="top" aria-label="pKs und pKb" data-href="pKs und pKb" href="\themen\säure-base-reaktionen\pks-und-pkb.html" class="internal-link" target="_self" rel="noopener">pKs</a> + lg()
-<br><a data-tooltip-position="top" aria-label="pKs und pKb" data-href="pKs und pKb" href="\themen\säure-base-reaktionen\pks-und-pkb.html" class="internal-link" target="_self" rel="noopener">pKs</a> = -lg(Ks)<br>
+<br><a data-tooltip-position="top" aria-label="pH Wert" data-href="pH Wert" href="\Themen\Säure-Base Reaktionen\pH Wert.html" class="internal-link" target="_self" rel="noopener">pH</a> = <a data-tooltip-position="top" aria-label="pKs und pKb" data-href="pKs und pKb" href="\Themen\Säure-Base Reaktionen\pKs und pKb.html" class="internal-link" target="_self" rel="noopener">pKs</a> + lg()
+<br><a data-tooltip-position="top" aria-label="pKs und pKb" data-href="pKs und pKb" href="\Themen\Säure-Base Reaktionen\pKs und pKb.html" class="internal-link" target="_self" rel="noopener">pKs</a> = -lg(Ks)<br>
 dabei gilt:
 <br>Ks = Säurekonstante
 <br>A- = konjugierte base
 <br>HA = Säure
 <br> für schwache Säuren/Basen:<br>
-<br>pH =  (<a data-tooltip-position="top" aria-label="pKs und pKb" data-href="pKs und pKb" href="\themen\säure-base-reaktionen\pks-und-pkb.html" class="internal-link" target="_self" rel="noopener">pKs</a> - log(HA))
-<br> für <a data-href="Puffer" href="\themen\säure-base-reaktionen\puffer.html" class="internal-link" target="_self" rel="noopener">Puffer</a>:<br>
+<br>pH =  (<a data-tooltip-position="top" aria-label="pKs und pKb" data-href="pKs und pKb" href="\Themen\Säure-Base Reaktionen\pKs und pKb.html" class="internal-link" target="_self" rel="noopener">pKs</a> - log(HA))
+<br> für <a data-href="Puffer" href="\Themen\Säure-Base Reaktionen\Puffer.html" class="internal-link" target="_self" rel="noopener">Puffer</a>:<br>
 <br>pH = pKs + log() 
-]]></description><link>themen\formeln.html</link><guid isPermaLink="false">Themen/formeln.md</guid><pubDate>Mon, 11 Mar 2024 20:14:27 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
+]]></description><link>Themen\formeln.html</link><guid isPermaLink="false">Themen/formeln.md</guid><pubDate>Mon, 11 Mar 2024 20:14:27 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
  <br><br><br>
-<br><a data-href="Kalorimeter" href="\themen\extra\kalorimeter.html" class="internal-link" target="_self" rel="noopener">Kalorimeter</a>
-<br><a data-href="Katalysator" href="\themen\extra\katalysator.html" class="internal-link" target="_self" rel="noopener">Katalysator</a>
-<br><a data-href="Reaktionsgeschwindigkeit" href="\themen\extra\reaktionsgeschwindigkeit.html" class="internal-link" target="_self" rel="noopener">Reaktionsgeschwindigkeit</a>
-<br><a data-href="Aktivierungsenergie" href="\themen\extra\aktivierungsenergie.html" class="internal-link" target="_self" rel="noopener">Aktivierungsenergie</a>
-<br><a data-href="Bildung und Spaltung eines Esters" href="\themen\extra\bildung-und-spaltung-eines-esters.html" class="internal-link" target="_self" rel="noopener">Bildung und Spaltung eines Esters</a>
-<br><a data-href="Massenwirkungsgesetz" href="\themen\extra\massenwirkungsgesetz.html" class="internal-link" target="_self" rel="noopener">Massenwirkungsgesetz</a>
+<br><a data-href="Kalorimeter" href="\Themen\Extra\Kalorimeter.html" class="internal-link" target="_self" rel="noopener">Kalorimeter</a>
+<br><a data-href="Katalysator" href="\Themen\Extra\Katalysator.html" class="internal-link" target="_self" rel="noopener">Katalysator</a>
+<br><a data-href="Reaktionsgeschwindigkeit" href="\Themen\Extra\Reaktionsgeschwindigkeit.html" class="internal-link" target="_self" rel="noopener">Reaktionsgeschwindigkeit</a>
+<br><a data-href="Aktivierungsenergie" href="\Themen\Extra\Aktivierungsenergie.html" class="internal-link" target="_self" rel="noopener">Aktivierungsenergie</a>
+<br><a data-href="Bildung und Spaltung eines Esters" href="\Themen\Extra\Bildung und Spaltung eines Esters.html" class="internal-link" target="_self" rel="noopener">Bildung und Spaltung eines Esters</a>
+<br><a data-href="Massenwirkungsgesetz" href="\Themen\Extra\Massenwirkungsgesetz.html" class="internal-link" target="_self" rel="noopener">Massenwirkungsgesetz</a>
 <br><br>
-<br><a data-tooltip-position="top" aria-label="Endotherm und Exotherm" data-href="Endotherm und Exotherm" href="\themen\thermodynamik\endotherm-und-exotherm.html" class="internal-link" target="_self" rel="noopener">Endotherm und Exotherm</a>
-<br><a data-href="Energetik" href="\themen\thermodynamik\energetik.html" class="internal-link" target="_self" rel="noopener">Energetik</a>
-<br><a data-href="Innere Energie" href="\themen\thermodynamik\innere-energie.html" class="internal-link" target="_self" rel="noopener">Innere Energie</a>
-<br><a data-href="Schmelz- und Verdampungsenthalpie" href="\themen\thermodynamik\schmelz-und-verdampungsenthalpie.html" class="internal-link" target="_self" rel="noopener">Schmelz- und Verdampungsenthalpie</a>
-<br><a data-href="Bildungs- und Reaktionsenthalpie" href="\themen\thermodynamik\bildungs-und-reaktionsenthalpie.html" class="internal-link" target="_self" rel="noopener">Bildungs- und Reaktionsenthalpie</a>
-<br><a data-href="Entropie" href="\themen\thermodynamik\entropie.html" class="internal-link" target="_self" rel="noopener">Entropie</a>
+<br><a data-tooltip-position="top" aria-label="Endotherm und Exotherm" data-href="Endotherm und Exotherm" href="\Themen\Thermodynamik\Endotherm und Exotherm.html" class="internal-link" target="_self" rel="noopener">Endotherm und Exotherm</a>
+<br><a data-href="Energetik" href="\Themen\Thermodynamik\Energetik.html" class="internal-link" target="_self" rel="noopener">Energetik</a>
+<br><a data-href="Innere Energie" href="\Themen\Thermodynamik\Innere Energie.html" class="internal-link" target="_self" rel="noopener">Innere Energie</a>
+<br><a data-href="Schmelz- und Verdampungsenthalpie" href="\Themen\Thermodynamik\Schmelz- und Verdampungsenthalpie.html" class="internal-link" target="_self" rel="noopener">Schmelz- und Verdampungsenthalpie</a>
+<br><a data-href="Bildungs- und Reaktionsenthalpie" href="\Themen\Thermodynamik\Bildungs- und Reaktionsenthalpie.html" class="internal-link" target="_self" rel="noopener">Bildungs- und Reaktionsenthalpie</a>
+<br><a data-href="Entropie" href="\Themen\Thermodynamik\Entropie.html" class="internal-link" target="_self" rel="noopener">Entropie</a>
 <br><br>
-<br><a data-href="Spontane Vorgänge" href="\themen\metastabile-systeme\spontane-vorgänge.html" class="internal-link" target="_self" rel="noopener">Spontane Vorgänge</a>
-<br><a data-href="Methastabile Systeme" href="\themen\metastabile-systeme\methastabile-systeme.html" class="internal-link" target="_self" rel="noopener">Methastabile Systeme</a>
-<br><a data-href="Chemisches Gleichgewicht" href="\themen\metastabile-systeme\chemisches-gleichgewicht.html" class="internal-link" target="_self" rel="noopener">Chemisches Gleichgewicht</a>
+<br><a data-href="Spontane Vorgänge" href="\Themen\Metastabile Systeme\Spontane Vorgänge.html" class="internal-link" target="_self" rel="noopener">Spontane Vorgänge</a>
+<br><a data-href="Methastabile Systeme" href="\Themen\Metastabile Systeme\Methastabile Systeme.html" class="internal-link" target="_self" rel="noopener">Methastabile Systeme</a>
+<br><a data-href="Chemisches Gleichgewicht" href="\Themen\Metastabile Systeme\Chemisches Gleichgewicht.html" class="internal-link" target="_self" rel="noopener">Chemisches Gleichgewicht</a>
 <br><br>
-<br><a data-href="pH Wert" href="\themen\säure-base-reaktionen\ph-wert.html" class="internal-link" target="_self" rel="noopener">pH Wert</a>
-<br><a data-href="pKs und pKb" href="\themen\säure-base-reaktionen\pks-und-pkb.html" class="internal-link" target="_self" rel="noopener">pKs und pKb</a>
-<br><a data-href="Säure-Base-Reaktion" href="\themen\säure-base-reaktionen\säure-base-reaktion.html" class="internal-link" target="_self" rel="noopener">Säure-Base-Reaktion</a>
-<br><a data-href="Puffer" href="\themen\säure-base-reaktionen\puffer.html" class="internal-link" target="_self" rel="noopener">Puffer</a>
+<br><a data-href="pH Wert" href="\Themen\Säure-Base Reaktionen\pH Wert.html" class="internal-link" target="_self" rel="noopener">pH Wert</a>
+<br><a data-href="pKs und pKb" href="\Themen\Säure-Base Reaktionen\pKs und pKb.html" class="internal-link" target="_self" rel="noopener">pKs und pKb</a>
+<br><a data-href="Säure-Base-Reaktion" href="\Themen\Säure-Base Reaktionen\Säure-Base-Reaktion.html" class="internal-link" target="_self" rel="noopener">Säure-Base-Reaktion</a>
+<br><a data-href="Puffer" href="\Themen\Säure-Base Reaktionen\Puffer.html" class="internal-link" target="_self" rel="noopener">Puffer</a>
 <br><br><br><br><br>teilweise/ganz unvollständig: <a data-href="todo" href="\todo.html" class="internal-link" target="_self" rel="noopener">todo</a>]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Tue, 12 Mar 2024 19:52:19 GMT</pubDate></item><item><title><![CDATA[todo]]></title><description><![CDATA[ 
- <br><a data-href="Massenwirkungsgesetz" href="\themen\extra\massenwirkungsgesetz.html" class="internal-link" target="_self" rel="noopener">Massenwirkungsgesetz</a><br>
-<a data-href="Bildung und Spaltung eines Esters" href="\themen\extra\bildung-und-spaltung-eines-esters.html" class="internal-link" target="_self" rel="noopener">Bildung und Spaltung eines Esters</a><br>
-<a data-href="Spontane Vorgänge" href="\themen\metastabile-systeme\spontane-vorgänge.html" class="internal-link" target="_self" rel="noopener">Spontane Vorgänge</a>]]></description><link>todo.html</link><guid isPermaLink="false">todo.md</guid><pubDate>Tue, 12 Mar 2024 11:06:25 GMT</pubDate></item><item><title><![CDATA[Unicode List]]></title><description><![CDATA[ 
+ <br><a data-href="Massenwirkungsgesetz" href="\Themen\Extra\Massenwirkungsgesetz.html" class="internal-link" target="_self" rel="noopener">Massenwirkungsgesetz</a><br>
+<a data-href="Bildung und Spaltung eines Esters" href="\Themen\Extra\Bildung und Spaltung eines Esters.html" class="internal-link" target="_self" rel="noopener">Bildung und Spaltung eines Esters</a><br>
+<a data-href="Spontane Vorgänge" href="\Themen\Metastabile Systeme\Spontane Vorgänge.html" class="internal-link" target="_self" rel="noopener">Spontane Vorgänge</a>]]></description><link>todo.html</link><guid isPermaLink="false">todo.md</guid><pubDate>Tue, 12 Mar 2024 11:06:25 GMT</pubDate></item><item><title><![CDATA[Unicode List]]></title><description><![CDATA[ 
  <br>→<br>
-⇌]]></description><link>unicode-list.html</link><guid isPermaLink="false">Unicode List.md</guid><pubDate>Mon, 11 Mar 2024 18:01:36 GMT</pubDate></item></channel></rss>
+⇌]]></description><link>Unicode List.html</link><guid isPermaLink="false">Unicode List.md</guid><pubDate>Mon, 11 Mar 2024 18:01:36 GMT</pubDate></item></channel></rss>
