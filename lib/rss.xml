@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Chemie.md]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Chemie.md</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 12 Mar 2024 20:06:16 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 12 Mar 2024 20:06:11 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Aktivierungsenergie]]></title><description><![CDATA[ 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Chemie.md]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Chemie.md</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 12 Mar 2024 20:24:05 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 12 Mar 2024 20:24:00 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Aktivierungsenergie]]></title><description><![CDATA[ 
  <br><br>Die Aktivierungsenergie ist die benötigte Energie um eine Reaktion ablaufen zu lassen.<br>
 Reaktionen mit einer niedrigeren Aktivierungsenergie laufen in der Regel schneller ab und können als <a data-tooltip-position="top" aria-label="Spontane Vorgänge" data-href="Spontane Vorgänge" href="\Themen\Metastabile Systeme\Spontane Vorgänge.html" class="internal-link" target="_self" rel="noopener">spontaner</a> wahrgenommen werden.<br>
 Um die Aktivierungsenergie herabzusetzen kann man einen <a data-href="Katalysator" href="\Themen\Extra\Katalysator.html" class="internal-link" target="_self" rel="noopener">Katalysator</a> verwenden.]]></description><link>Themen\Extra\Aktivierungsenergie.html</link><guid isPermaLink="false">Themen/Extra/Aktivierungsenergie.md</guid><pubDate>Mon, 11 Mar 2024 19:18:37 GMT</pubDate></item><item><title><![CDATA[Bildung und Spaltung eines Esters]]></title><description><![CDATA[ 
@@ -146,7 +146,7 @@ Der Betrag entspricht der Erstarrungsenthalpie.    sH<br><br>wärme die bei kons
 Der Betrag entspricht der Kondensationsenthalpie. rH<br>Um die Enthalpien miteinander vergleichen zu können gibt man die molare Schmelz- und Verdampfungsenthalpie an:<br>
 <br>sHn =   [] 
 <br>rHn =  [] 
-]]></description><link>Themen\Thermodynamik\Schmelz- und Verdampungsenthalpie.html</link><guid isPermaLink="false">Themen/Thermodynamik/Schmelz- und Verdampungsenthalpie.md</guid><pubDate>Mon, 11 Mar 2024 18:40:21 GMT</pubDate></item><item><title><![CDATA[formeln]]></title><description><![CDATA[ 
+]]></description><link>Themen\Thermodynamik\Schmelz- und Verdampungsenthalpie.html</link><guid isPermaLink="false">Themen/Thermodynamik/Schmelz- und Verdampungsenthalpie.md</guid><pubDate>Mon, 11 Mar 2024 18:40:21 GMT</pubDate></item><item><title><![CDATA[Formeln]]></title><description><![CDATA[ 
  <br><br>
 <br>RH =  (HProdukte)  -  (HEdukte) 
 <br><br>
@@ -165,9 +165,9 @@ dabei gilt:
 <br>pH =  (<a data-tooltip-position="top" aria-label="pKs und pKb" data-href="pKs und pKb" href="\Themen\Säure-Base Reaktionen\pKs und pKb.html" class="internal-link" target="_self" rel="noopener">pKs</a> - log(HA))
 <br> für <a data-href="Puffer" href="\Themen\Säure-Base Reaktionen\Puffer.html" class="internal-link" target="_self" rel="noopener">Puffer</a>:<br>
 <br>pH = pKs + log() 
-]]></description><link>Themen\formeln.html</link><guid isPermaLink="false">Themen/formeln.md</guid><pubDate>Mon, 11 Mar 2024 20:14:27 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
+]]></description><link>Formeln.html</link><guid isPermaLink="false">Formeln.md</guid><pubDate>Mon, 11 Mar 2024 20:14:27 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
  <br><br><br>
-<br><a data-href="Kalorimeter" href="\Themen\Extra\Kalorimeter.html" class="internal-link" target="_self" rel="noopener">Kalorimeter</a>
+<br><a data-tooltip-position="top" aria-label="Kalorimeter" data-href="Kalorimeter" href="\Themen\Extra\Kalorimeter.html" class="internal-link" target="_self" rel="noopener">Kalorimeter</a>
 <br><a data-href="Katalysator" href="\Themen\Extra\Katalysator.html" class="internal-link" target="_self" rel="noopener">Katalysator</a>
 <br><a data-href="Reaktionsgeschwindigkeit" href="\Themen\Extra\Reaktionsgeschwindigkeit.html" class="internal-link" target="_self" rel="noopener">Reaktionsgeschwindigkeit</a>
 <br><a data-href="Aktivierungsenergie" href="\Themen\Extra\Aktivierungsenergie.html" class="internal-link" target="_self" rel="noopener">Aktivierungsenergie</a>
@@ -175,11 +175,11 @@ dabei gilt:
 <br><a data-href="Massenwirkungsgesetz" href="\Themen\Extra\Massenwirkungsgesetz.html" class="internal-link" target="_self" rel="noopener">Massenwirkungsgesetz</a>
 <br><br>
 <br><a data-tooltip-position="top" aria-label="Endotherm und Exotherm" data-href="Endotherm und Exotherm" href="\Themen\Thermodynamik\Endotherm und Exotherm.html" class="internal-link" target="_self" rel="noopener">Endotherm und Exotherm</a>
-<br><a data-href="Energetik" href="\Themen\Thermodynamik\Energetik.html" class="internal-link" target="_self" rel="noopener">Energetik</a>
+<br><a data-tooltip-position="top" aria-label="Energetik" data-href="Energetik" href="\Themen\Thermodynamik\Energetik.html" class="internal-link" target="_self" rel="noopener">Energetik</a>
 <br><a data-href="Innere Energie" href="\Themen\Thermodynamik\Innere Energie.html" class="internal-link" target="_self" rel="noopener">Innere Energie</a>
 <br><a data-href="Schmelz- und Verdampungsenthalpie" href="\Themen\Thermodynamik\Schmelz- und Verdampungsenthalpie.html" class="internal-link" target="_self" rel="noopener">Schmelz- und Verdampungsenthalpie</a>
 <br><a data-href="Bildungs- und Reaktionsenthalpie" href="\Themen\Thermodynamik\Bildungs- und Reaktionsenthalpie.html" class="internal-link" target="_self" rel="noopener">Bildungs- und Reaktionsenthalpie</a>
-<br><a data-href="Entropie" href="\Themen\Thermodynamik\Entropie.html" class="internal-link" target="_self" rel="noopener">Entropie</a>
+<br><a data-tooltip-position="top" aria-label="Entropie" data-href="Entropie" href="\Themen\Thermodynamik\Entropie.html" class="internal-link" target="_self" rel="noopener">Entropie</a>
 <br><br>
 <br><a data-href="Spontane Vorgänge" href="\Themen\Metastabile Systeme\Spontane Vorgänge.html" class="internal-link" target="_self" rel="noopener">Spontane Vorgänge</a>
 <br><a data-href="Methastabile Systeme" href="\Themen\Metastabile Systeme\Methastabile Systeme.html" class="internal-link" target="_self" rel="noopener">Methastabile Systeme</a>
@@ -189,7 +189,7 @@ dabei gilt:
 <br><a data-href="pKs und pKb" href="\Themen\Säure-Base Reaktionen\pKs und pKb.html" class="internal-link" target="_self" rel="noopener">pKs und pKb</a>
 <br><a data-href="Säure-Base-Reaktion" href="\Themen\Säure-Base Reaktionen\Säure-Base-Reaktion.html" class="internal-link" target="_self" rel="noopener">Säure-Base-Reaktion</a>
 <br><a data-href="Puffer" href="\Themen\Säure-Base Reaktionen\Puffer.html" class="internal-link" target="_self" rel="noopener">Puffer</a>
-<br><br><br><br><br>teilweise/ganz unvollständig: <a data-href="todo" href="\todo.html" class="internal-link" target="_self" rel="noopener">todo</a>]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Tue, 12 Mar 2024 19:52:19 GMT</pubDate></item><item><title><![CDATA[todo]]></title><description><![CDATA[ 
+<br><br><br><br><br>teilweise/ganz unvollständig: <a data-href="todo" href="\todo.html" class="internal-link" target="_self" rel="noopener">todo</a>]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Tue, 12 Mar 2024 20:23:21 GMT</pubDate></item><item><title><![CDATA[todo]]></title><description><![CDATA[ 
  <br><a data-href="Massenwirkungsgesetz" href="\Themen\Extra\Massenwirkungsgesetz.html" class="internal-link" target="_self" rel="noopener">Massenwirkungsgesetz</a><br>
 <a data-href="Bildung und Spaltung eines Esters" href="\Themen\Extra\Bildung und Spaltung eines Esters.html" class="internal-link" target="_self" rel="noopener">Bildung und Spaltung eines Esters</a><br>
 <a data-href="Spontane Vorgänge" href="\Themen\Metastabile Systeme\Spontane Vorgänge.html" class="internal-link" target="_self" rel="noopener">Spontane Vorgänge</a>]]></description><link>todo.html</link><guid isPermaLink="false">todo.md</guid><pubDate>Tue, 12 Mar 2024 11:06:25 GMT</pubDate></item><item><title><![CDATA[Unicode List]]></title><description><![CDATA[ 

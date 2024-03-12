@@ -1,6 +1,6 @@
 {
   "vaultName": "Chemie.md",
-  "lastExport": 1710273971953,
+  "lastExport": 1710275040945,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
   "useCustomHeadContent": false,
@@ -25,7 +25,7 @@
     "Themen/Thermodynamik/Entropie.md",
     "Themen/Thermodynamik/Innere Energie.md",
     "Themen/Thermodynamik/Schmelz- und Verdampungsenthalpie.md",
-    "Themen/formeln.md",
+    "Formeln.md",
     "index.md",
     "todo.md",
     "Unicode List.md",
@@ -106,355 +106,355 @@
   ],
   "fileInfo": {
     "Themen/Extra/Aktivierungsenergie.md": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 342,
       "exportedPath": "Themen/Extra/Aktivierungsenergie.html",
       "dependencies": []
     },
     "Themen/Extra/Bildung und Spaltung eines Esters.md": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 0,
       "exportedPath": "Themen/Extra/Bildung und Spaltung eines Esters.html",
       "dependencies": []
     },
     "Themen/Extra/Kalorimeter.md": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 909,
       "exportedPath": "Themen/Extra/Kalorimeter.html",
       "dependencies": []
     },
     "Themen/Extra/Katalysator.md": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 232,
       "exportedPath": "Themen/Extra/Katalysator.html",
       "dependencies": []
     },
     "Themen/Extra/Massenwirkungsgesetz.md": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 495,
       "exportedPath": "Themen/Extra/Massenwirkungsgesetz.html",
       "dependencies": []
     },
     "Themen/Extra/Reaktionsgeschwindigkeit.md": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 378,
       "exportedPath": "Themen/Extra/Reaktionsgeschwindigkeit.html",
       "dependencies": []
     },
     "Themen/Metastabile Systeme/Chemisches Gleichgewicht.md": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 765,
       "exportedPath": "Themen/Metastabile Systeme/Chemisches Gleichgewicht.html",
       "dependencies": []
     },
     "Themen/Metastabile Systeme/Methastabile Systeme.md": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 463,
       "exportedPath": "Themen/Metastabile Systeme/Methastabile Systeme.html",
       "dependencies": []
     },
     "Themen/Metastabile Systeme/Spontane Vorgänge.md": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 231,
       "exportedPath": "Themen/Metastabile Systeme/Spontane Vorgänge.html",
       "dependencies": []
     },
     "Themen/Säure-Base Reaktionen/pH Wert.md": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 899,
       "exportedPath": "Themen/Säure-Base Reaktionen/pH Wert.html",
       "dependencies": []
     },
     "Themen/Säure-Base Reaktionen/pKs und pKb.md": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 577,
       "exportedPath": "Themen/Säure-Base Reaktionen/pKs und pKb.html",
       "dependencies": []
     },
     "Themen/Säure-Base Reaktionen/Puffer.md": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 796,
       "exportedPath": "Themen/Säure-Base Reaktionen/Puffer.html",
       "dependencies": []
     },
     "Themen/Säure-Base Reaktionen/Säure-Base-Reaktion.md": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 411,
       "exportedPath": "Themen/Säure-Base Reaktionen/Säure-Base-Reaktion.html",
       "dependencies": []
     },
     "Themen/Thermodynamik/Bildungs- und Reaktionsenthalpie.md": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 1100,
       "exportedPath": "Themen/Thermodynamik/Bildungs- und Reaktionsenthalpie.html",
       "dependencies": []
     },
     "Themen/Thermodynamik/Endotherm und Exotherm.md": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 271,
       "exportedPath": "Themen/Thermodynamik/Endotherm und Exotherm.html",
       "dependencies": []
     },
     "Themen/Thermodynamik/Energetik.md": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 1420,
       "exportedPath": "Themen/Thermodynamik/Energetik.html",
       "dependencies": []
     },
     "Themen/Thermodynamik/Entropie.md": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 1334,
       "exportedPath": "Themen/Thermodynamik/Entropie.html",
       "dependencies": []
     },
     "Themen/Thermodynamik/Innere Energie.md": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 474,
       "exportedPath": "Themen/Thermodynamik/Innere Energie.html",
       "dependencies": []
     },
     "Themen/Thermodynamik/Schmelz- und Verdampungsenthalpie.md": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 549,
       "exportedPath": "Themen/Thermodynamik/Schmelz- und Verdampungsenthalpie.html",
       "dependencies": []
     },
-    "Themen/formeln.md": {
-      "modifiedTime": 1710273971953,
+    "Formeln.md": {
+      "modifiedTime": 1710275040945,
       "sourceSize": 706,
-      "exportedPath": "Themen/formeln.html",
+      "exportedPath": "Formeln.html",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1710273971953,
-      "sourceSize": 696,
+      "modifiedTime": 1710275040945,
+      "sourceSize": 727,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "todo.md": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 88,
       "exportedPath": "todo.html",
       "dependencies": []
     },
     "Unicode List.md": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 8,
       "exportedPath": "Unicode List.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/fonts/MathJax_Zero.woff": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/MathJax_Zero.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Regular.woff": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Bold.woff": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Math-Italic.woff": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Italic.woff": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Math-BoldItalic.woff": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size1-Regular.woff": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size2-Regular.woff": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size3-Regular.woff": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size4-Regular.woff": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_AMS-Regular.woff": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Calligraphic-Regular.woff": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Calligraphic-Bold.woff": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Fraktur-Regular.woff": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Fraktur-Bold.woff": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Regular.woff": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Bold.woff": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Italic.woff": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Script-Regular.woff": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Typewriter-Regular.woff": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Vector-Regular.woff": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Vector-Bold.woff": {
-      "modifiedTime": 1710273971953,
+      "modifiedTime": 1710275040945,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
       "dependencies": []
